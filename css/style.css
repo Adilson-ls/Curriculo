@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'lato', sans-serif;
+}
+
+.cab{
+    background-color: blueviolet;
+
+}
+
+div > ul{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
