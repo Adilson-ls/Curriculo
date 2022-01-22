@@ -6,8 +6,12 @@
 
 
 
+div.container-menu{
+    display: flex;
+    flex-direction: row;
+    
+} 
 a {
     text-decoration: none;
-    display: flex;
     padding: 10px;
 }
